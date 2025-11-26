@@ -1,9 +1,9 @@
-Angel One – Q2 FY25-26 Equity Research Report
+**Angel One – Q2 FY25-26 Equity Research Report**
 
 This repository contains a complete equity research project on Angel One Ltd, focused on the company’s performance during Q2 FY25-26.
 The report covers financial analysis, industry overview, competitive landscape, valuation, and an investment thesis prepared in a professional equity-research format.
 
-Project Objective
+**Project Objective**
 
 The purpose of this research is to:
 
@@ -17,7 +17,7 @@ Present a structured investment thesis backed by data
 
 Build a professional equity research sample for academic or career use
 
-Contents of the Repository
+**Contents of the Repository**
 1. Company Overview
 
 Business model
@@ -88,11 +88,11 @@ Risks & triggers
 
 Final investment stance (Buy / Hold / Sell – based on your analysis)
 
-Tools & Data Sources
+**Tools & Data Sources**
 
 Excel / Google Sheets / Screener.in
 
-Angel One quarterly reports & presentations
+**Angel One quarterly reports & presentations**
 
 NSE/BSE data
 
@@ -100,7 +100,7 @@ SEBI / Industry reports
 
 Public financial databases
 
-Key Insights (Summary)
+**Key Insights**
 
 Strong client growth and digital adoption
 
@@ -110,14 +110,14 @@ Market share improving among discount brokers
 
 Regulatory changes and competition remain key watchpoints
 
-Disclaimer
+**Disclaimer**
 
 This research is intended solely for academic and educational purposes.
 It is NOT an investment recommendation.
 Please conduct independent financial analysis before making investment decisions.
 
-Author
+**Author**
 
-Kabilan N M
-Equity Research Enthusiast | Finance Domain
+**Kabilan N M
+Equity Research Enthusiast | Finance Domain**
 Open to feedback, collaboration, and improvements.
