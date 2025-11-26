@@ -18,7 +18,7 @@ Present a structured investment thesis backed by data
 Build a professional equity research sample for academic or career use
 
 **Contents of the Repository**
-1. Company Overview
+**1. Company Overview**
 
 Business model
 
@@ -28,7 +28,7 @@ Client metrics & digital footprint
 
 Product ecosystem (trading, F&O, ARQ Prime, etc.)
 
-2. Industry Overview
+**2. Industry Overview**
 
 Indian broking industry growth
 
@@ -36,13 +36,13 @@ Retail participation trends
 
 Regulatory environment (SEBI norms, margin rules, etc.)
 
-3. Strategic Frameworks
+**3. Strategic Frameworks**
 
 Porter’s Five Forces for the broking industry
 
 SWOT Analysis of Angel One
 
-4. Financial Performance – Q2 FY25-26
+**4. Financial Performance – Q2 FY25-26**
 
 Revenue & PAT analysis
 
@@ -54,7 +54,7 @@ Cost efficiency & operating leverage
 
 Key KPIs (AUM, orders, trades, gross additions)
 
-5. Ratio Analysis
+**5. Ratio Analysis**
 
 ROE, ROA, NPM
 
@@ -66,13 +66,13 @@ Cost-to-income
 
 Liquidity and leverage indicators
 
-6. Peer Comparison
+**6. Peer Comparison**
 
 Angel One vs Zerodha, Upstox, ICICI Securities, Motilal Oswal
 
 Market share insights
 
-7. Valuation
+**7. Valuation**
 
 Historical P/E benchmarking
 
@@ -80,7 +80,7 @@ Relative valuation
 
 Scenario-based valuation (Bull / Base / Bear)
 
-8. Investment Thesis
+**8. Investment Thesis**
 
 Key strengths
 
@@ -118,6 +118,7 @@ Please conduct independent financial analysis before making investment decisions
 
 **Author**
 
-**Kabilan N M
-Equity Research Enthusiast | Finance Domain**
+**Kabilan N M**
+**Equity Research Enthusiast | Finance Domain**
+
 Open to feedback, collaboration, and improvements.
